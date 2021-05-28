@@ -1,7 +1,6 @@
 from bs4 import BeautifulSoup
 from requests import get
 import sqlite3
-from sys import argv
 
 URL = 'https://www.otodom.pl/sprzedaz/mieszkanie/slaskie/'
 
